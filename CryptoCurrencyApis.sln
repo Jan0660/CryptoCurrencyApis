@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCurrencyApis", "CryptoCurrencyApis\CryptoCurrencyApis.csproj", "{71D698CC-A8BC-4B43-83DB-664DB2D07308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{DC67093C-D7C9-42CC-A8BF-8F6BF7835A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D698CC-A8BC-4B43-83DB-664DB2D07308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D698CC-A8BC-4B43-83DB-664DB2D07308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D698CC-A8BC-4B43-83DB-664DB2D07308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D698CC-A8BC-4B43-83DB-664DB2D07308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC67093C-D7C9-42CC-A8BF-8F6BF7835A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC67093C-D7C9-42CC-A8BF-8F6BF7835A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC67093C-D7C9-42CC-A8BF-8F6BF7835A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC67093C-D7C9-42CC-A8BF-8F6BF7835A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
