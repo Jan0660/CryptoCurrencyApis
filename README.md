@@ -2,6 +2,7 @@
 [![NuGet](https://img.shields.io/nuget/v/CryptoCurrencyApis)](https://www.nuget.org/packages/CryptoCurrencyApis/)
 [![NuGet Prerelease](https://img.shields.io/nuget/vpre/CryptoCurrencyApis)](https://www.nuget.org/packages/CryptoCurrencyApis/)
 [![chat on discord](https://img.shields.io/discord/749601186155462748?logo=discord)](https://discord.gg/zBbV56e)
+
 A small library for using APIs for cryptos in .NET. Currently only ethermine.org and go-ethereum APIs are available in an unfinished state.
 
 ## Use
